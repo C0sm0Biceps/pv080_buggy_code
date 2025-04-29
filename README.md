@@ -1,2 +1,3 @@
-# pv080_buggy_code
-School seminar mini repo
+# PV080_buggy_code
+
+Readme from GitLab
